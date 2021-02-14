@@ -75,8 +75,8 @@ exports.DefaultOptions = {
    * @property {string} [template='https://discord.new'] Base url of templates
    */
   http: {
-    version: 8,
-    api: 'https://discord.com/api',
+    version: 6,
+    api: 'https://litecord.io/api',
     cdn: 'https://cdn.discordapp.com',
     invite: 'https://discord.gg',
     template: 'https://discord.new',

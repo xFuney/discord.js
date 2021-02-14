@@ -1,4 +1,5 @@
 <div align="center">
+  <strong><h1>THIS WILL NOT WORK WITH REGULAR DISCORD - THIS IS A MODIFIED VERSION IN ORDER TO FUNCTION WITH A LITECORD INSTANCE ON AN INTRANET.</h1></strong>
   <br />
   <p>
     <a href="https://discord.js.org"><img src="https://discord.js.org/static/logo.svg" width="546" alt="discord.js" /></a>
